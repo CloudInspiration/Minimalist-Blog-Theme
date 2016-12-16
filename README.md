@@ -1,5 +1,4 @@
 # Minimalist-Blog-Theme
-HTML вёрстка «Minimalist Blog Theme»
 
 Особенности вёрстки:
 
